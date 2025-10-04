@@ -15,3 +15,5 @@ git remote add origin https://github.com/azzaz1782-ship-it/telegram-bot-railway.
 
 REM رفع المشروع إلى GitHub
 git push -u origin main
+
+pause
